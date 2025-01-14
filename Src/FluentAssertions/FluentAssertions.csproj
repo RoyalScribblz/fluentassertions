@@ -15,6 +15,8 @@
   </PropertyGroup>
 
   <PropertyGroup Label="Package info">
+    <PackageId>FluentAssertions-apache-2.0</PackageId>
+    <Version>8.0.0</Version>
     <Authors>Dennis Doomen;Jonas Nyrup</Authors>
     <PackageDescription>
       A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or
@@ -24,7 +26,7 @@
       Supported by InfoSupport B.V.
     </PackageDescription>
     <PackageProjectUrl>https://www.fluentassertions.com</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/fluentassertions/fluentassertions</RepositoryUrl>
+    <RepositoryUrl>https://github.com/RoyalScribblz/fluentassertions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>MSTest2;xUnit;NUnit;MSpec;TUnit;TDD;BDD;Fluent;netstandard;uwp</PackageTags>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
